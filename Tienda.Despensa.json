@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6609d93137320a8e0fb0de20"
+  },
+  "producto": "Queso",
+  "categoria": "Lacteos",
+  "precio": "1.900"
+},
+{
+  "_id": {
+    "$oid": "6609d99437320a8e0fb0de24"
+  },
+  "producto": "tallarines",
+  "categoria": "pastas largas",
+  "precio": "500"
+},
+{
+  "_id": {
+    "$oid": "6609d9ba37320a8e0fb0de26"
+  },
+  "producto": "corbatitas",
+  "categoria": "pastas cortas",
+  "precio": "500"
+},
+{
+  "_id": {
+    "$oid": "660cb0c24f3825a286587580"
+  },
+  "producto": "garbanzos",
+  "categoria": "legumbres",
+  "precio": "1.000"
+},
+{
+  "_id": {
+    "$oid": "660cb2374f3825a286587586"
+  },
+  "producto": "lentejaas",
+  "categoria": "legumbrees",
+  "precio": "1.900"
+},
+{
+  "_id": {
+    "$oid": "660cb3c2b38447e2990f1793"
+  },
+  "producto": "gatorade",
+  "categoria": "bebestible",
+  "precio": "1.500"
+}]
