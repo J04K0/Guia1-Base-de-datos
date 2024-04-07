@@ -2,7 +2,7 @@
 
 
 
- Requisitos:
+### Requisitos:
 1.- Tener instalado python en una version superior a 3.0
 2.- Tener habilitado el pip cuando se instale python
 3.- Tener instalado pymongo Comando: pip install pymongo
