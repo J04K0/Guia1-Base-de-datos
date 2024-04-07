@@ -1,17 +1,27 @@
-# Instrucciones a seguir para conexion a la base de datos
+> [!IMPORTANT]
+> **🚀CRUD BASE DE DATOS🚀**
+
+Se realizó este trabajo con el apoyo de los siguientes links para descargar lo necesario: 
+- [Python 3.12.2](https://www.python.org/)
+- [MongoDB](https://www.mongodb.com/es)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 
 
-### Requisitos:
-1.- Tener instalado python en una version superior a 3.0
-2.- Tener habilitado el pip cuando se instale python
-3.- Tener instalado pymongo Comando: pip install pymongo
+Instrucciones a seguir para conexion a la base de datos
+
+
+
+Requisitos: 
+1. Tener instalado python en una version superior a 3.0
+2. Tener habilitado el pip cuando se instale python 
+3. Tener instalado pymongo Comando: pip install pymongo 
 
 Pasos para ejecutar:
-1.- Descargar codigo
-2.- Instalar dependencia pip,  
-        Comando: pip install pymongo            
-3.- Ejecutar comando: python main.py
+1. Descargar codigo
+2. Instalar dependencia pip,  
+        Comando: `pip install pymongo`          
+3. Ejecutar comando: python main.py
 
  Ambiente virtual
     -env python
