@@ -33,6 +33,6 @@ Categoria: Lacteos
 Precio: 1.900
 
  ## Ejecución 👨‍💻
-index.py: archivo para hacer la conexion a la base de datos.
-main.py: archivo que contiene el main/menu para poder hacer la consulta y hacer el CRUD.
-Tienda.Despensa.json: paquete JSON que contiene los datos ingresados.
+1. index.py: archivo para hacer la conexion a la base de datos.
+2. main.py: archivo que contiene el main/menu para poder hacer la consulta y hacer el CRUD.
+3. Tienda.Despensa.json: paquete JSON que contiene los datos ingresados.
