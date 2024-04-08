@@ -7,11 +7,6 @@ Se realizó este trabajo con el apoyo de los siguientes links para descargar lo 
 - [Visual Studio Code](https://code.visualstudio.com/)
 
 
-
-Instrucciones a seguir para conexion a la base de datos
-
-
-
 ## Requisitos🛠️
 1. Tener instalado python en una version superior a 3.0
 2. Tener habilitado el pip cuando se instale python 
@@ -23,19 +18,19 @@ Instrucciones a seguir para conexion a la base de datos
         Comando: `pip install pymongo`          
 3. Ejecutar comando: python main.py
 
- Ambiente virtual
+## Ambiente virtual 👀
     -env python
 
- Usos
-    Este programa tiene el fin de probar Bases de datos no relacionales, en este caso utilizando la libreria "mongod"
+## Usos del programa 📝
+    Este programa está diseñado para experimentar con bases de datos no relacionales, especificamente utilizando la libreria mongod.
 
  ## Base de datos 💡
 En esta base de datos se guarda la infomacion de Productos de minimarket.
 Este es el esquema que se utiliza para la creación de los productos.
+Ejemplo de creación del productos:
 Producto: Queso
 Categoria: Lacteos
 Precio: 1.900
-
 
  ## Ejecución 👨‍💻
 index.py: archivo para hacer la conexion a la base de datos.
