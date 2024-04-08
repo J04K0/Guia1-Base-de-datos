@@ -22,7 +22,7 @@ Se realizó este trabajo con el apoyo de los siguientes links para descargar lo 
     -env python
 
 ## Usos del programa 📝
-    Este programa está diseñado para experimentar con bases de datos no relacionales, especificamente utilizando la libreria mongod.
+Este programa está diseñado para experimentar con bases de datos no relacionales, especificamente utilizando la libreria mongod.
 
  ## Base de datos 💡
 En esta base de datos se guarda la infomacion de Productos de minimarket.
